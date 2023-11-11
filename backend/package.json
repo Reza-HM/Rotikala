@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "backend": "json-server -w data/db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
